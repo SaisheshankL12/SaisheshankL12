@@ -17,6 +17,7 @@
 - 🔭 I’m currently learning **Java** and **Frontend Development**
 - 💼 All of my projects are available on my portfolio: [saisheshankennapureddy.netlify.app](https://saisheshankennapureddy.netlify.app)
 - 📫 How to reach me: **saisheshankr@gmail.com**
+- 📞 Phone: [9059575930](tel:+919059575930)
 
 ---
 
